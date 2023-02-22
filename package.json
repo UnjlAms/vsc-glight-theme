@@ -1,21 +1,26 @@
 {
-  "name": "UnjlAms",
-  "displayName": "Glight_theme",
-  "description": "",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.75.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Glight_theme",
-        "uiTheme": "vs",
-        "path": "./themes/Glight_theme-color-theme.json"
-      }
-    ]
-  }
+	"name": "UnjlAms",
+	"displayName": "Glight_theme",
+	"description": "",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.75.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Glight_theme",
+				"uiTheme": "vs",
+				"path": "./themes/Glight_theme-color-theme.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/UnjlAms/vsc-glight-theme.git"
+	}
 }
+
