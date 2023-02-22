@@ -2,18 +2,15 @@
 	"name": "Glight_theme",
 	"type": "light",
 	"colors": {
-		// base color
 		"focusBorder": "#ffffff00",
 		"foreground": "#000000",
 		"editor.background": "#ffffff",
 		"editor.foreground": "#000000",
 		"scrollbar.shadow": "#ffffff",
-		// activity bar
 		"activityBar.border": "#ffffff",
 		"activityBar.background": "#ffffff",
 		"activityBar.foreground": "#000000",
 		"activityBarBadge.background": "#000000",
-		// status bar
 		"statusBar.border": "#ffffff",
 		"statusBar.background": "#ffffff",
 		"statusBar.foreground": "#000000",
@@ -21,7 +18,6 @@
 		"statusBar.noFolderForeground": "#000000",
 		"statusBar.debuggingBackground": "#ffffff",
 		"statusBar.debuggingForeground": "#000000",
-		// editor groups and tabs
 		"editorGroup.border": "#ffffff",
 		"editorGroupHeader.tabsBackground": "#ffffff",
 		"editorGroupHeader.noTabsBackground": "#ffffff",
@@ -30,12 +26,10 @@
 		"tab.inactiveBackground": "#ffffff",
 		"tab.border": "#ffffff",
 		"tab.activeBorder": "#000000",
-		// side bars
 		"sideBar.border": "#ffffff",
 		"sideBar.background": "#ffffff",
 		"sideBar.foreground": "#000000",
 		"sideBarSectionHeader.background": "#ffffff",
-		// list
 		"list.highlightForeground": "#000000",
 		"list.activeSelectionBackground": "#eeeeee",
 		"list.activeSelectionForeground": "#000000",
@@ -45,13 +39,11 @@
 		"list.hoverForeground": "#000000",
 		"list.focusBackground": "#eeeeee",
 		"list.focusForeground": "#000000",
-		// editor
 		"editor.lineHighlightBackground": "#fffbdf",
 		"editor.lineHighlightBorder": "#fffbdf",
 		"editorLineNumber.foreground": "#babbbc",
 		"editorLineNumber.activeForeground": "#000000",
 		"editor.selectionBackground": "#fed442",
-		// input
 		"input.border": "#b2b2b2",
 		"input.background": "#ffffff",
 		"inputOption.activeBorder": "#000000",
@@ -59,27 +51,22 @@
 		"dropdown.border": "#b2b2b2",
 		"dropdown.background": "#ffffff",
 		"dropdown.listBackground": "#ffffff",
-		// notification
 		"notificationCenter.border": "#ffffff",
 		"notificationCenterHeader.background": "#ffffff",
 		"notificationToast.border": "#ffffff",
 		"notifications.background": "#ffffff",
 		"notifications.border": "#ffffff",
-		// button
 		"button.background": "#000000",
 		"button.foreground": "#ffffff",
-		// titlebar
 		"titleBar.border": "#ffffff",
 		"titleBar.activeBackground": "#ffffff",
 		"titleBar.activeForeground": "#000000",
 		"titleBar.inactiveBackground": "#ffffff",
 		"titleBar.inactiveForeground": "#000000",
-		// editor widget
 		"editorWidget.background": "#ffffff",
 		"editorWidget.border": "#000000",
 		"editorSuggestWidget.highlightForeground": "#000000",
 		"editorSuggestWidget.selectedBackground": "#f0f0f0",
-		// panel
 		"panel.border": "#ffffff"
 	},
 	"tokenColors": [
