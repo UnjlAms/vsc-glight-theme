@@ -1,8 +1,10 @@
 {
-	"name": "Glight",
-	"description": "",
-	"version": "0.0.2",
+	"name": "vsc-glight-theme",
+	"displayName": "Glight Theme",
+	"description": "The light Theme for Visual Studio Code",
+	"version": "0.0.3",
 	"publisher": "UnjlAms",
+	"license": "MIT",
 	"icon": "images/icon.png",
 	"engines": {
 		"vscode": "^1.75.0"
