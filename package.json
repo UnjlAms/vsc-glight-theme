@@ -1,8 +1,9 @@
 {
-	"name": "UnjlAms",
-	"displayName": "Glight_theme",
+	"name": "Glight",
 	"description": "",
 	"version": "0.0.1",
+	"publisher": "UnjlAms",
+	"icon": "images/icon.png",
 	"engines": {
 		"vscode": "^1.75.0"
 	},
