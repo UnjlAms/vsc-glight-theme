@@ -22,6 +22,7 @@
 		"editorGroupHeader.tabsBackground": "#ffffff",
 		"editorGroupHeader.noTabsBackground": "#ffffff",
 		"editorGroupHeader.tabsBorder": "#ffffff",
+		"editorGroupHeader.border": "#ffffff",
 		"tab.activeBackground": "#ffffff",
 		"tab.inactiveBackground": "#ffffff",
 		"tab.border": "#ffffff",
@@ -64,7 +65,7 @@
 		"titleBar.inactiveBackground": "#ffffff",
 		"titleBar.inactiveForeground": "#000000",
 		"editorWidget.background": "#ffffff",
-		"editorWidget.border": "#000000",
+		"editorWidget.border": "#ffffff",
 		"editorSuggestWidget.highlightForeground": "#000000",
 		"editorSuggestWidget.selectedBackground": "#f0f0f0",
 		"panel.border": "#ffffff"
